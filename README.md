@@ -1,6 +1,6 @@
 # Disease Prediction WebApp
 
-A Simple Flask ML Web Application which takes in disease symptoms as input , uses ** Multinomial Naive Bayes Classifier** to determine the disease and displays the name of the disease.
+A Simple Flask ML Web Application which takes in disease symptoms as input , uses Multinomial Naive Bayes Classifier to determine the disease and displays the name of the disease.
 
 Uses Gemini to elaborate about the disease. (Gemini API is required)
 
